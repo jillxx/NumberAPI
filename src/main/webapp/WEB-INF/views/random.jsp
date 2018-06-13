@@ -9,7 +9,9 @@
 </head>
 <body>
 <h1>Random Fact</h1>
-<h4>Fact: ${random.text}
+<h4>${random.number} ${random.year}: ${random.text}.
 </h4>
+<br>
+
 </body>
 </html>

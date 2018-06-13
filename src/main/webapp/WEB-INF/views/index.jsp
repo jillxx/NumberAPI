@@ -18,8 +18,14 @@ Your month: <input type="text" name="month">
 <br><br><br><br>
 <input type="submit" value="Submit">
 </form>
-<h1>Click to get a random fact!</h1>
+<h1>Please Select the type of the random fact you want!</h1>
 <form action="random">
+<select>
+	<option value="trivia">trivia</option>
+  <option value="math">math</option>
+  <option value="date">date</option>
+  <option value="year">year</option>
+</select>
 <input type="submit" value="Generate Random">
 </form></body>
 </html>

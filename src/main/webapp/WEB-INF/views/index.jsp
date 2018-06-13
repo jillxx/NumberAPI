@@ -20,7 +20,7 @@ Your month: <input type="text" name="month">
 </form>
 <h1>Please Select the type of the random fact you want!</h1>
 <form action="random">
-<select>
+<select name="type">
 	<option value="trivia">trivia</option>
   <option value="math">math</option>
   <option value="date">date</option>

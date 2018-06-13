@@ -5,10 +5,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Random Fact</title>
 </head>
 <body>
-<h1>Random quote</h1>
-${random }
+<h1>Random Fact</h1>
+<h4>Fact: ${random.text}
+</h4>
 </body>
 </html>

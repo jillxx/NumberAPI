@@ -5,11 +5,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Fact</title>
 </head>
 <body>
 <h1>The fact is: </h1>
 <br>
-${fact }
+<h4>
+${fact.text }
+</h4>
 </body>
 </html>

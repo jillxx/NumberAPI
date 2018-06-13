@@ -11,7 +11,7 @@
 <br>
 <br>
 <h1>Enter a date to get a result!</h1>
-<form action="number">
+<form action="datefact">
 Your day: <input type="text" name="day">
 <br>
 Your month: <input type="text" name="month">
